@@ -1,0 +1,10 @@
+const array = ['H','A','M','M','A','D'];
+const boolVariable = false;
+const stringVariable = 'HAMMAD';
+const numberVariable = 0;
+const objectVariable = {name:'Hammad'};
+console.log(typeof(array));
+console.log(typeof(boolVariable));
+console.log(typeof(stringVariable));
+console.log(typeof(numberVariable));
+console.log(typeof(objectVariable));
